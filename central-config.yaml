@@ -1,0 +1,5 @@
+server:
+  port: 8081
+  
+home:
+   message: Hello ,sir, Welcome to Spring boot cloud config
